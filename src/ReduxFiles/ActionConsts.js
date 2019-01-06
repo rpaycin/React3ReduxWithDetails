@@ -1,0 +1,6 @@
+export const SET_PERSON_NAME="SET_PERSON_NAME";
+export const SET_PERSON_SURNAME="SET_PERSON_SURNAME";
+
+export const ADD_RELATION="ADD_RELATION";
+
+
